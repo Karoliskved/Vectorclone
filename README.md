@@ -28,3 +28,6 @@ kiek kartu įveyksta perskirstymas testavimas faile test1.cpp:
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | std::vector | 14  | 17  | 20|  24 | 27 |
 | Vector| 14|  17  | 20 | 24| 27 |
+
+
+Pasirinktinių funkcijų testai test.cpp faile
