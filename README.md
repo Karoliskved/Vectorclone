@@ -1,7 +1,7 @@
 # Vectorclone
 
 
-Vektoriaus bibliotekos kopija
+Vector bibliotekos kopija c++ kalba
 
 Turi visas funkcijas reikiamas 2 užduočiai ir dar daugiau!
 
